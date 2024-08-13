@@ -4,7 +4,8 @@ This is the Internship task from ReachInbox.ai
 
 **Want to run this code in your Machine**
 1. Clone the repository
-2. Run `npm start` to start the application
+2. Install needed dependencies
+3. Run `npm start` to start the application
 
 Note: This task is not completely done because of the timeline. I have other tasks to complete at the same time. How much is possible, that is completed. As part of this task, I learned new things, and thanks for this opportunity.
 
