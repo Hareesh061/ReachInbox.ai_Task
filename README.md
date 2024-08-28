@@ -10,4 +10,6 @@ This is the Internship task from ReachInbox.ai
 Note: This task is not completely done because of the timeline. I have other tasks to complete at the same time. How much is possible, that is completed. As part of this task, I learned new things, and thanks for this opportunity.
 
 
+**Result: Not Selected**
+
 **Keep learning**
